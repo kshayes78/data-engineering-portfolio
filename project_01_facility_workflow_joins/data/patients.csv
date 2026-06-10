@@ -1,0 +1,9 @@
+patient_id,first_name,last_name,date_of_birth,gender,primary_facility_id
+101,Angela,Morris,1972-04-18,F,1
+102,Brian,Coleman,1985-09-30,M,2
+103,Denise,Walker,1968-12-11,F,1
+104,Eric,Johnson,1991-07-22,M,3
+105,Monica,Price,1979-02-03,F,2
+106,James,Reed,1958-06-15,M,4
+107,Latoya,Smith,1988-10-09,F,3
+108,Carlos,Rivera,1975-01-27,M,1

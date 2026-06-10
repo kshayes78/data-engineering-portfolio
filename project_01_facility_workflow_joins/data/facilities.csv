@@ -1,0 +1,5 @@
+facility_id,facility_name,city,state,facility_type
+1,CareBridge Downtown Clinic,Raleigh,NC,Primary Care
+2,CareBridge Eastside Health Center,Durham,NC,Community Health
+3,CareBridge Virtual Care Hub,Charlotte,NC,Telehealth
+4,CareBridge Specialty Access Center,Greensboro,NC,Specialty Care

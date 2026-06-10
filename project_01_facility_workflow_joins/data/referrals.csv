@@ -1,0 +1,11 @@
+referral_id,patient_id,referral_date,referral_reason,risk_level,referred_to_program
+1001,101,2026-01-03,Diabetes Management,High,Chronic Care Navigation
+1002,102,2026-01-04,Hypertension Monitoring,Medium,Remote Patient Monitoring
+1003,103,2026-01-06,Diabetes Management,High,Chronic Care Navigation
+1004,104,2026-01-08,Asthma Control,Low,Respiratory Health Coaching
+1005,105,2026-01-09,Hypertension Monitoring,High,Remote Patient Monitoring
+1006,106,2026-01-12,COPD Follow-Up,High,Respiratory Health Coaching
+1007,107,2026-01-15,Diabetes Management,Medium,Chronic Care Navigation
+1008,108,2026-01-17,Preventive Screening,Low,Preventive Outreach
+1009,101,2026-02-01,Hypertension Monitoring,Medium,Remote Patient Monitoring
+1010,105,2026-02-04,Diabetes Management,High,Chronic Care Navigation

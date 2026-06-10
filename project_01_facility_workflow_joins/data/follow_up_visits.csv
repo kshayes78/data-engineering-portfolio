@@ -1,0 +1,9 @@
+visit_id,referral_id,visit_date,visit_status,intervention_completed,notes
+501,1001,2026-01-07,Completed,Yes,Patient enrolled in care navigation.
+502,1002,2026-01-20,Completed,Yes,Home BP cuff issued.
+503,1003,2026-01-10,Completed,No,Patient attended; labs pending.
+504,1004,2026-01-30,No Show,No,Patient did not attend appointment.
+505,1005,2026-01-15,Completed,Yes,RPM enrollment completed.
+506,1006,2026-01-25,Completed,Yes,Respiratory coaching started.
+507,1008,2026-02-02,Cancelled,No,Patient cancelled screening visit.
+508,1009,2026-02-10,Completed,Yes,Medication adherence review completed.
